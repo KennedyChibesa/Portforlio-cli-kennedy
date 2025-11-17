@@ -1,11 +1,13 @@
 My first app 
 
 Requirements
+
 .NET SDK installed (version 6.0 or higher recommended).
 
 A code editor (like Visual Studio Code or Visual Studio).
 
 Basic knowledge of running console apps is helpful but not required.
+
 
 
 Steps to Run the App (Using Visual Studio Code)
