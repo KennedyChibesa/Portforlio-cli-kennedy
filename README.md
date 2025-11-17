@@ -44,7 +44,12 @@ Screenshots
 <p><img width="334" height="190" alt="Screenshot 2025-11-17 112119" src="https://github.com/user-attachments/assets/4540c6f2-6aba-4165-acf7-03a2d9785757" /></p>
 <p><img width="407" height="137" alt="Screenshot 2025-11-17 112132" src="https://github.com/user-attachments/assets/e699da98-77bb-4c2a-9c1e-dca8688dcf01" /></p>
 <p><img width="172" height="49" alt="Screenshot 2025-11-17 112149" src="https://github.com/user-attachments/assets/6e2553b0-003d-4a7e-9542-6f0d67f21d08" /></p>
-in i case where you enter a number tat is out of bounds 
+in a case where you enter a number that is out of bounds 
 <p><img width="409" height="82" alt="Screenshot 2025-11-17 112212" src="https://github.com/user-attachments/assets/f75471bf-d6fe-4e09-9ad8-d23934228d61" /></p>
-in a case were you enter a letter
+in a case were you enter a letter, an error message will be displayed
 <p><img width="316" height="66" alt="Screenshot 2025-11-17 112318" src="https://github.com/user-attachments/assets/10e5da5a-6d61-4261-8d5a-35f3caeb8aaa" /></p>
+
+
+
+
+
