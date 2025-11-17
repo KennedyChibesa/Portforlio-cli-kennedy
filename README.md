@@ -12,13 +12,13 @@ Basic knowledge of running console apps is helpful but not required.
 
 Steps to Run the App (Using Visual Studio Code)
 
-Open the folder containing your Program.cs file in VS Code.
+1.Open the folder containing your Program.cs file in VS Code.
 
-Open a terminal inside VS Code.
+2.Open a terminal inside VS Code.
 
-Make sure your project is a .NET console project.
+3.Make sure your project is a .NET console project.
 
-Run the app: dotnet run
+4.Run the app: dotnet run
 
 The console will show your menu:
 <p><img width="360" height="207" alt="Screenshot 2025-11-17 105047" src="https://github.com/user-attachments/assets/aa39cd2b-4bc4-4e5a-93a6-1f6140063af6" /></p>
@@ -26,16 +26,16 @@ Type a number (1–5) and press Enter to navigate the menu.
 
 What I Learned
 
-How to use methods to organize code.
+1.How to use methods to organize code.
 
-Implementing input validation with int.TryParse().
+2.Implementing input validation with int.TryParse().
 
-Using a menu-driven interface with switch and do..while loops.
+3.Using a menu-driven interface with switch and do..while loops.
 
 
 What I Struggled With
 
-Understanding why methods needed to be static to be called from Main().
+1.Understanding why methods needed to be static to be called from Main().
 
 Screenshots
 <p><img width="360" height="207" alt="Screenshot 2025-11-17 105047" src="https://github.com/user-attachments/assets/114021c3-aac8-450f-b15c-3108a160c392" /></p>
